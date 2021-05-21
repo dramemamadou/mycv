@@ -1,0 +1,178 @@
+body{
+  font-family: "Montserrat";
+/* text-align: center; */
+
+
+}
+
+#title{
+    text-align: center;
+  background-color: #9dbeb9;
+  color: #fff;
+  text-align: center;
+  padding: 7% 17%;
+  background-image: url('../image/pattern.gif');
+  background-size: cover;
+}
+h1{
+  font-family: "Montserrat-black";
+  size: 3rem;
+  line-height: 1.5;
+  text-transform: uppercase;
+
+}
+#cv_titre{
+  /* text-align:center; */
+  font-size: 180%;
+  /* padding: 3% 0; */
+}
+h2{
+  font-family: "Montserrat-bold";
+  size: 3rem;
+  line-height: 1.5;
+    text-transform: uppercase;
+}
+h3{
+  font-family: "Montserrat-bold";
+    text-transform: uppercase;
+}
+
+p{
+  font-family: "Montserrat";
+  size: 2rem;
+  color:#194350;
+  text-transform: uppercase;
+  /* padding: 5% 0%; */
+}
+ul li{
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0px;
+    padding:0px;
+    text-align: left;
+  }
+.skill_list{
+  margin-right:30%;
+}
+span{}
+/* hr{
+
+  border-style:none;
+    border-top-style:dotted;
+  height:0px;
+  width:3%;
+  border-color:grey;
+  border-width: 30px;
+  margin:5;
+
+
+
+
+} */
+#resume{
+padding: 5% 17%;
+background-color:#fff;
+font-weight: normal;
+}
+
+#portfolio{
+  background-color: #9dbeb9;
+  text-align: center;
+}
+
+.container-fluid{
+  padding:5% 17%;
+
+}
+/* Navigation bar */]
+.navbar{
+  padding:0 0 0 4rem;
+
+}
+.navbar-brand{
+  font-family: "ubuntu";
+  font-size: 2.5rem;th
+  font-weight: bold;
+  margin: right;
+  padding: 0;
+
+}
+.nav-item{
+  padding: 0 2%;
+}
+.nav-link{
+  font-family: "Montserrat-light";
+  font-size: 1.2rem;
+}
+.my-title {
+}
+.title-image{
+width: 60%;
+transform: rotate(25deg);
+}
+.cv_header{
+  color:#9dbeb9;
+  text-align: left;
+  margin: 0px;
+  padding: 0px;
+font-weight: normal;
+font-size: 20px;
+}
+.center_text{
+    /* margin-left: auto;
+    margin-right: auto; */
+
+}
+/* .icon{
+  text-align: right;
+} */
+.star-icon{
+ position :relative;
+  padding-left: 60%;
+  bottom:28px;
+font-size :14px;
+
+
+
+
+  }
+.dev_web{
+  font-family: "Montserrat";
+  size: 2rem;
+  color:#fff;
+  text-transform: uppercase;
+
+
+}
+.social_icon2{
+  padding:4% 0;
+transition-delay: 1s;
+transition-property: all;
+transition-timing-function: ease;
+}
+.social_icon{
+padding-left:5% 17%;
+margin-top: 40%;
+transition-delay: 1s;
+transition-property: all;
+transition-timing-function: ease;
+}
+.fab{
+  color: #fff;
+}
+
+.fab:hover{
+color: #ffc2b4;
+}
+.no_bullet{
+  padding-left: 0px;
+}
+.edu_para{
+  font-size: 1rem;
+
+  font-family: "Montserrat-regular";}
+  .port_header{
+    font-size: 1rem;
+  padding:2% 0;
+  color: #fff;
+  }
